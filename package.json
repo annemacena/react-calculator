@@ -1,6 +1,6 @@
 {
-  "name": "calculadora",
-  "homepage": "https://annemacena.github.io/calculadora",
+  "name": "react-calculator",
+  "homepage": "https://annemacena.github.io/react-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
