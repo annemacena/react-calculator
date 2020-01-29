@@ -1,0 +1,18 @@
+.display, .display-historic {    
+    grid-column: span 4;
+    background-color: #0004;
+}
+.display {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0 20px 20px;
+    font-size: 2.1em;
+    overflow: hidden;
+}
+.display-historic {
+    text-align: right;
+    padding: 20px 20px 0;
+    font-size: .8em;
+    color: #ffffff7a;
+}
